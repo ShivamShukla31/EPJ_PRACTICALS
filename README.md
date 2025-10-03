@@ -18,4 +18,4 @@ The repository is intended to help students **understand, practice, and referenc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Enterprise-Practicals.git
+   git clone https://github.com/ShivamShukla31/Enterprise-Practicals.git
